@@ -18,17 +18,17 @@
 - Train-test split implementation
 
 ## Models used by each team member
-## Jai Advitheeya Lella
+### Jai Advitheeya Lella
 - Random Forest
 - Naive Bayes
 - Neural Network
-## Prathyusha 
+### Prathyusha 
 - Logistic Regression
 - Gradient Boosting
-## Sujith
+### Sujith
 - XG Boost
 - Decision Tree
-## Niharika
+### Niharika
 - Linear SVM
 - KNN
 
