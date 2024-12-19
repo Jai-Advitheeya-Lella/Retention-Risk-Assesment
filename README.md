@@ -50,4 +50,57 @@
 
 ## Reports
 - Each persons report is under the folder reports
-- 
+
+
+# Phase 3:
+# Data Intensive Computing Project - Phase 3
+
+## Team Members and Questions
+- Niharika Reddy Katakam (50610925)
+    - Question 1: Analysis of how churn is impacted by customer age
+
+
+- Prathyusha Reddy Allam (50613222)
+    - Question 2: Analysis of how churn is impacted by account balance and estimated salary
+
+- Kundavaram Joseph Sujith Kumar (50600443)
+    - Question 3: Analysis of how churn is impacted by credit score
+
+
+- Jai Advitheeya Leela (50607407)
+    - Question 4: Analysis of how churn is impacted by tenure and number of products
+    
+
+
+## Project Structure
+```
+main folder contains the following:
+└── app/
+    ├── app.py                # Streamlit application file
+    └── bank_customers.db     # SQLite database file
+└── exp/
+    └── exp.ipynb            # Analysis notebook
+└── README.md                # Project documentation
+└── report.pdf               # Final project report
+
+```
+
+## Requirements
+```
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+```
+
+## App Installation Steps
+1. put all the files in one folder
+
+
+2. Run the Streamlit application:
+in terminal:
+streamlit run app.py
+```
