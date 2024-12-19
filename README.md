@@ -83,7 +83,7 @@ main folder contains the following:
 └── README.md                # Project documentation
 └── Reports/
     ├── report_phase3.py      # Final project report
-
+(Video file size is too large to add into GITHUB, have submitted it in the UBLearns platform)
 ```
 
 ## Requirements
