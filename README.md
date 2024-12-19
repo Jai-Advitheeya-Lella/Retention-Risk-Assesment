@@ -104,9 +104,18 @@ in terminal:
  streamlit run app.py
 ```
 
-## HIghlights
+# Highlights
+
 1. Implementation of a robust SQLite database system for persistent data storage.
-2. App highlights: Development of a Streamlit-based web application integrating:– Real-time individual churn predictions– Comprehensive customer segmentation analysis– Feature importance visualization– Retention strategy recommendations
+
+2. App highlights: Development of a Streamlit-based web application integrating:
+   - Real-time individual churn predictions
+   - Comprehensive customer segmentation analysis
+   - Feature importance visualization
+   - Retention strategy recommendations
+
 3. Model Accuracy of 86% for both Neural Network and Random Forest Models
+
 4. Detailed data analysis through visualizations in the app and notebook.
-5. Handled complex and imbalanced dataset via thorough data cleaning processes. 
+
+5. Handled complex and imbalanced dataset via thorough data cleaning processes.
