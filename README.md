@@ -79,9 +79,10 @@ main folder contains the following:
     ├── app.py                # Streamlit application file
     └── bank_customers.db     # SQLite database file
 └── exp/
-    └── exp.ipynb            # Analysis notebook
+    └── exp.ipynb            # Final notebook including phase 3
 └── README.md                # Project documentation
-└── report.pdf               # Final project report
+└── Reports/
+    ├── report_phase3.py      # Final project report
 
 ```
 
@@ -104,3 +105,9 @@ seaborn
 in terminal:
 streamlit run app.py
 ```
+## HIghlights
+1. Implementation of a robust SQLite database system for persistent data storage.
+2. App highlights: Development of a Streamlit-based web application integrating:– Real-time individual churn predictions– Comprehensive customer segmentation analysis– Feature importance visualization– Retention strategy recommendations
+3. Model Accuracy of 86% for both Neural Network and Random Forest Models
+4. Detailed data analysis through visualizations in the app and notebook.
+5. Handled complex and imbalanced dataset via thorough data cleaning processes. 
