@@ -99,12 +99,11 @@ seaborn
 
 ## App Installation Steps
 1. put all the files in one folder
-
-
 2. Run the Streamlit application:
 in terminal:
-streamlit run app.py
+ streamlit run app.py
 ```
+
 ## HIghlights
 1. Implementation of a robust SQLite database system for persistent data storage.
 2. App highlights: Development of a Streamlit-based web application integrating:– Real-time individual churn predictions– Comprehensive customer segmentation analysis– Feature importance visualization– Retention strategy recommendations
